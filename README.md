@@ -6,4 +6,4 @@ A large scale rewrite of training data (or just UNK token replacements for words
 
 The repository has the code for word level tokenization and UNK token replacements and a manually curated whitelist.
 
-My email: akemeklis@protonmail.com
+My email: akemeklis [at] protonmail [dot] com
